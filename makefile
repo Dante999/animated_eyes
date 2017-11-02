@@ -19,6 +19,7 @@ BUILDPATH=./build
 SOURCES= main.c
 SOURCES+= ssd1306.c
 SOURCES+= i2cmaster.c
+SOURCES+= eye.c
 
 # Progammer
 # Settings for an Arduino Mega 2560 Board
